@@ -77,3 +77,13 @@ ul.booklist li{
     padding-left: 20px;
     margin-left: 10px;
 }
+.footer {
+    font-family: "MedievalSharp", cursive;
+    font-weight: 100;
+    font-style: small;
+    font-size:small;
+    margin: 60px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
